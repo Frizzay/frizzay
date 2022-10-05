@@ -1,6 +1,6 @@
 ## **Hi there!** 👋
 
-My name is Timo but online I usually go by Frizzay.
+My name is Timo but online I usually go by Frizzay.\
 I really like containers and automation, mostly with Ansible.
 
 ## What are you gonna find here?
