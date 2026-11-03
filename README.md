@@ -42,15 +42,7 @@ status:
       reason: CaffeineLevelsNominal
 ```
 
-## 🐳 `docker ps`
-
-```console
-CONTAINER ID   IMAGE                     STATUS                        NAMES
-3f1a9c0d2b7e   frizzay/dnf-auto-setup    Up 24/7 (patching Fedora)     dnf-auto-setup
-8c4e2a1f9d63   frizzay/hertha-cal        Up (healthy)                  hertha-cal
-b71d5e0c4a28   frizzay/frizzbot          Up (roasting its creator)     frizzbot
-e09f3b6a1c55   frizzay/homelab           Restarting (always)           homelab
-```
+## 🐳 Projects
 
 | Project | What it does |
 | --- | --- |
