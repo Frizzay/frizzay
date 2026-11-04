@@ -48,7 +48,7 @@ status:
 | --- | --- |
 | 🔄 [**dnf-auto-setup**](https://github.com/Frizzay/dnf-auto-setup) | Ansible role for hands-off Fedora updates with `dnf5 automatic`. A report lands in Discord after every run, so I find out about reboots before my users do. Comes with an interactive playbook, so you don't have to write any YAML. |
 | ⚽ [**hertha-cal**](https://github.com/Frizzay/hertha-cal) | A subscribable ICS calendar with every Hertha BSC competitive match, with reminders 30 and 5 minutes before kickoff. |
-| 🤖 **FrizzBot** | A private Discord bot for music, levels, polls and moderation. One of its rotating statuses tells the whole server I still can't code. It isn't wrong. |
+| 🤖 **FrizzBot** | A private Discord bot for music, levels, polls and moderation. |
 | 🏠 **The homelab** | It's never finished, and that's the fun part. |
 
 ## 🧰 Toolbox
