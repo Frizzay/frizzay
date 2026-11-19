@@ -14,34 +14,6 @@ Building highly available cloud native platforms is my passion.
 Ever since I was a small child, I knew I wanted to increase shareholder value.
 ```
 
-## 🧬 `kubectl get human frizzay -o yaml`
-
-```yaml
-apiVersion: humans/v1alpha1     # still in alpha, breaking changes expected
-kind: PlatformEngineer
-metadata:
-  name: timo
-  labels:
-    alias: frizzay
-    habitat: homelab
-    club: hertha-bsc            # hahohe 💙🤍
-spec:
-  replicas: 1                   # horizontal scaling blocked on cloning tech
-  languages: [german, english, yaml]
-  favoriteTools: [ansible, docker, kubernetes]
-  restartPolicy: OnTea
-  livenessProbe:
-    exec:
-      command: ["cat", "/dev/tea"]
-    periodSeconds: 3600
-status:
-  phase: Running
-  conditions:
-    - type: Ready
-      status: "True"
-      reason: CaffeineLevelsNominal
-```
-
 ## 🐳 Projects
 
 | Project | What it does |
